@@ -220,6 +220,16 @@ p {
   margin:0 auto 0;
 }
 
+/*------------------------------------------------ シェフ */
+#chef{
+  background-color: #fdf5e6;
+}
+
+.chef::after{
+  content:"シェフ";
+
+}
+
 /* ----------------------------------------------- フッター */
 #footer{
   background-color: #FAFAFA;
